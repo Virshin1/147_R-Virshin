@@ -1,0 +1,51 @@
+.container{
+    text-align: center;
+    background-color: rgb(149, 222, 198);
+    padding: 10rem;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+.image{
+}
+
+img{
+    text-align: center;
+    background-color: black;
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    border: 1px white solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -140px;
+    
+}
+
+.name{
+    font-family: fantasy;
+}
+
+h1{
+    top: -100px;
+}
+
+.about{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: tomato;
+    height: 150px;
+    width: 100px;
+}
+
+.about1{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: tomato;
+    height: 200px;
+    width: 100px;
+}
